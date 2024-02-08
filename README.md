@@ -16,13 +16,7 @@ I am a Computer Engineering student at Firat University, Turkey, currently in my
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-
-<a href="[https://www.mysql.com/](https://www.microsoft.com/en-us/sql-server)" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7518bdbe92e34ee62df755ffe857fafb4a7c537ed0e1b9f6a5bef7a1d3c8356a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"/></a>
-
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="[https://www.mysql.com/](https://www.microsoft.com/en-us/sql-server)" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7518bdbe92e34ee62df755ffe857fafb4a7c537ed0e1b9f6a5bef7a1d3c8356a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"/></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
