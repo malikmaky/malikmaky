@@ -7,7 +7,7 @@ I'm a 3rd year CE Student, currently working on improving my development skills 
 I am a Computer Engineering student at Firat University, Turkey, currently in my third year of study. My passion lies in developing innovative tools to address real-world challenges and contribute positively to society.
 
 * 🌍  I'm based in Türkiye.
-* ✉️  You can contact me at [malikmuhammed2003@hotmail.com](mailto:malikmuhammed2003@hotmail.com)
+* ✉️  You can contact me at [malikmhmd@hotmail.com](mailto:malikmhmd@hotmail.com)
 * 🧠  I'm learning to develop and create useful tools for the world !
 * 🤝  I'm open to collaborating on anything, you can contact me through my e-mail.
 * ⚡  Random Quote : Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
