@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Malik Muhammed
 ======================================================================================================================================
 
-I'm a 3rd year CE Student, currently working on improving my development skills by learning new tech and such ... !
+I'm a 4th year CE Student, currently working on improving my development skills by learning new tech and such ... !
 -------------------------------------------------------------------------------------------------------------------
 
 I am a Computer Engineering student at Firat University, Turkey, currently in my third year of study. My passion lies in developing innovative tools to address real-world challenges and contribute positively to society.
